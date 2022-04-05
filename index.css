@@ -18,6 +18,7 @@
     
 }
 .container.active {
+    color: var(--light);
     background:var(--dark);
 }
 .btn{
@@ -53,3 +54,9 @@
 .moon{
     margin: 15%;
 }   
+h1{
+    font-size: 150px;
+    font-family: arial;
+    position: absolute;
+    top: 15px;
+}
